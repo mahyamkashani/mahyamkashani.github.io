@@ -11,4 +11,8 @@ redirect_from:
 
 Download 
 ======
-* [academic Resume](https://ituniversity-my.sharepoint.com/:b:/r/personal/mahmo_itu_dk/Documents/CV/cv.pdf?csf=1&web=1&e=DpiULG)
+* [My academic resume](https://ituniversity-my.sharepoint.com/:b:/g/personal/mahmo_itu_dk/EZ0TCVIJw21ErtNQV5GC2AIBZR-6QUzfauFpmVR59gKQdw?e=UZWuA8)
+
+* [My academic resume](files/cv.pdf)
+
+* [University Webpage](https://pure.itu.dk/da/persons/mahya-mohammadi-kashani)
