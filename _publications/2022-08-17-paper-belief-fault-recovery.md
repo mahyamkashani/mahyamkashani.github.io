@@ -1,7 +1,7 @@
 ---
 title: "Belief-based fault recovery for marine robotics"
 collection: publications
-permalink: /files/paper3-RobOntics.pdf
+permalink: /publication/2022-08-17-paper-Belief-fault-recovery
 excerpt: 'This project entitled testing and statistical assessment of plans which is devoted to risk assessment and assistance for plan selection in underwater AI robotics.'
 date: 2022-08-17
 venue: 'RobOntics 2022'
