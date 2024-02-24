@@ -1,7 +1,7 @@
 ---
 title: "Reliable Plan Selection with Quantified Risk-Sensitivity"
 collection: publications
-permalink: /files/NWPT_2023_paper_9787.pdf
+permalink: /publication/2023-11-23-paper-reliable-plan-selection
 excerpt: 'This extended abstract paper is about reliable plan selection for marine robots.'
 date: 2023-11-23
 venue: 'NWPT 2023-34th Nordic Workshop on Programming Theory'
