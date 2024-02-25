@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-08-17-paper-Belief-fault-recovery
 excerpt: 'This project entitled testing and statistical assessment of plans which is devoted to risk assessment and assistance for plan selection in underwater AI robotics.'
 date: 2022-08-17
-venue: 'RobOntics 2022'
+venue: The Eighth Joint Ontology Workshops (JOWO’22),'RobOntics 2022'
 paperurl: 'https://ceur-ws.org/Vol-3249/paper3-RobOntics.pdf'
 citation: 'JP Coffelt, MM Kashani, A Wasowski, P Kampmann (2022). &quot;The Eighth Joint Ontology Workshops (JOWO’22), August 15-19, 2022, Jönköping, Sweden, 1(3).'
 ---
